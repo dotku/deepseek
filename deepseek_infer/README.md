@@ -1,5 +1,11 @@
 # deepseek_infer
 
+## Prerequire
+
+```sh
+pip install deepspeed transformers accelerate bitsandbytes
+```
+
 ## Get Started
 
 ```sh
